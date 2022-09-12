@@ -224,6 +224,10 @@
     letter-spacing: -0.52px;
     text-align: center;
   }
+
+  .form {
+    padding: 40px;
+  }
 }
 
 @media (min-width: 1440px) {
